@@ -4,9 +4,12 @@
 
 **Certificates & awards**
 1. Yandex Metric (2024)
-2. Yandex Direct (2024)
-3. Webflow (layouts Level 1, Layouts Level 2, CMS, Partner)
-
+2. Yandex Direct ()
+3. Webflow (layouts Level 1)
+4. Webflow (Layouts Level 2)
+5. Webflow (CMS)
+6. Webflow (Partner)
+   
 **Scientific works** 
 
 Published 15+ research papers in peer-reviewed journals (including Web of Science, VAK, and Russian science journals) on topics such as:
@@ -31,26 +34,6 @@ Can edit: HTML/CSS, Python. CMS Webflow (certified in 2025)
 , Yandex Metric (certified in 2024), Project management
 
 ------------------------------------
-
-******Transition to Computational Biology******
-
-Now applying my analytical and technical skills to bioinformatics, focusing on:
-NGS data analysis (RNA-Seq, genomics)
-Python for biological data processing (Pandas, Biopython, Scikit-learn)
-Statistical modeling and machine learning in biology
-
-**Languages:**
-Python (NumPy, Pandas, Biopython, Scikit-learn), R (tidyverse, ggplot2, DESeq2), SQL, Bash
-
-**Bioinformatics Tools & Frameworks:**
-Conda/Bioconda, Jupyter, FastQC, MultiQC, STAR, SAMtools, GATK, SnpEff, MAFFT
-
-**Fields of Interest & Skills:**
-Next-Generation Sequencing (NGS) Analysis, RNA-Seq, Genomics, Phylogenetics, Machine Learning in Biology, Data Visualization
-
---------------------------------------
-
-*Open to collaboration on open-source bioinformatics projects and research.*
 
 Suleymanov Deni Magomedovich, 03 august 2001
 
