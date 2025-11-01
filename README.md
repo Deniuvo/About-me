@@ -22,6 +22,10 @@ Published 15+ research papers in peer-reviewed journals (including Web of Scienc
 2. High-conversion landing pages and corporate websites
 3. SEO optimization and organic traffic growth
 4. UX/UI design and no-code development
+
+**Commercial Projects**
+1. 6 websites (for legal entities)
+2. 4 Telegram bots (for legal entities, a government body, and a VPN bot)
    
    Webflow profile: https://webflow.com/@duneflow
    
