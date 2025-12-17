@@ -17,6 +17,8 @@ Published 15+ research papers in peer-reviewed journals (including Web of Scienc
 2. Human-computer interaction and UX research
 3. Data-driven web development frameworks
 
+------------------------------------
+
 **Tech & Web Expertise**
 Certified Webflow Partner | Founder of a web studio specializing in:
 1. High-conversion landing pages and corporate websites
@@ -31,7 +33,7 @@ Certified Webflow Partner | Founder of a web studio specializing in:
    
    Studio Website: https://www.duneflow.ru
 
-------------------------------------
+-----------------------------------
 
 **Technical Skills & Web Development Expertise**
 
@@ -69,6 +71,8 @@ DevOps & Hosting Management
 · Security – Firewall configuration, malware protection, backup strategies
 
 ------------------------------------
+
+_Verified expertise with demonstrable commercial projects. All skills are backed by working implementations, measurable results, and supported by industry-recognized certifications._
 
 Suleymanov Deni Magomedovich, 03 august 2001
 
