@@ -34,8 +34,8 @@
 
 1. 6 сайтов (для юридических лиц)
 2. 4 Telegram-бота (для юридических лиц, государственного органа и VPN-бота)
-   - Профиль в Webflow: https://webflow.com/@duneflow
-   - Сайт студии: https://www.duneflow.ru
+   Профиль в Webflow: https://webflow.com/@duneflow
+   Сайт студии: https://www.duneflow.ru
 
 ---
 
