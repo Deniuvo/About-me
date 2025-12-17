@@ -18,10 +18,10 @@ Published 15+ research papers in peer-reviewed journals (including Web of Scienc
 3. Data-driven web development frameworks
 
 **Tech & Web Expertise**
-1. Certified Webflow Partner | Founder of a web studio specializing in:
-2. High-conversion landing pages and corporate websites
-3. SEO optimization and organic traffic growth
-4. UX/UI design and no-code development
+Certified Webflow Partner | Founder of a web studio specializing in:
+1. High-conversion landing pages and corporate websites
+2. SEO optimization and organic traffic growth
+3. UX/UI design and no-code development
 
 **Commercial Projects**
 1. 6 websites (for legal entities)
