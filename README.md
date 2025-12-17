@@ -31,6 +31,8 @@ Certified Webflow Partner | Founder of a web studio specializing in:
    
    Studio Website: https://www.duneflow.ru
 
+------------------------------------
+
 **Technical Skills & Web Development Expertise**
 
 Core Development Stack
