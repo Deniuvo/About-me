@@ -40,8 +40,8 @@ Certified Webflow Partner | Founder of a web studio specializing in:
 
 Core Development Stack
 
-· Frontend: Middle: HTML5, CSS3 (Flexbox, Grid, Animations), Responsive Design, Can edit: JavaScript (ES6+)
-· Backend: Python, Database Integration, Supabase
+· Frontend: Middle: HTML5, CSS3 (Flexbox, Grid, Animations), Responsive Design, Can edit: JavaScript (ES6+), PHP
+· Backend: Python (can edit), Database Integration, Supabase
 · Version Control: Git, GitHub/GitLab (branches, pull requests, CI/CD workflows)
 
 CMS Specialization
