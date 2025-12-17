@@ -29,7 +29,7 @@ Published 15+ research papers in peer-reviewed journals (including Web of Scienc
    
    Webflow profile: https://webflow.com/@duneflow
    
-   Studio Webssite: https://www.duneflow.ru
+   Studio Website: https://www.duneflow.ru
 
 **Soft & Skills in web-design and UX/UI**
 
