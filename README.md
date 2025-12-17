@@ -12,10 +12,10 @@
    
 **Scientific works** 
 
-Published 15+ research papers in peer-reviewed journals (including Web of Science, VAK, and Russian science journals) on topics such as:
-1. Artificial intelligence and neural network design
-2. Human-computer interaction and UX research
-3. Data-driven web development frameworks
+Published 15+ research papers in peer-reviewed journals (including Web of Science, Higher Attestation Commission (VAK) journal, and RSCI-indexed Russian academic journal) on topics such as:
+1. Responsive Web Design 2.0: AI, AR, and Future Interface Technologies
+2. Integrated Digital Strategy: When to Prioritize SEO Over Paid Campaigns
+3. Advanced AI Prompting for Technical SEO and Content Optimization
 
 ------------------------------------
 
