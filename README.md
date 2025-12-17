@@ -31,11 +31,40 @@ Certified Webflow Partner | Founder of a web studio specializing in:
    
    Studio Website: https://www.duneflow.ru
 
-**Soft & Skills in web-design and UX/UI**
+**Technical Skills & Web Development Expertise**
 
-HTML/CSS, Python. CMS Webflow (certified in 2025)
-, CMS Umbraco, CMS WordPress, Figma, UX/UI, Technical SEO and performance analytics, Yandex Direct (certified in 2024)
-, Yandex Metric (certified in 2024), Project management, Git, Githab, hosting and domen management
+Core Development Stack
+
+· Frontend: Middle: HTML5, CSS3 (Flexbox, Grid, Animations), Responsive Design, Can edit: JavaScript (ES6+)
+· Backend: Python, Database Integration, Supabase
+· Version Control: Git, GitHub/GitLab (branches, pull requests, CI/CD workflows)
+
+CMS Specialization
+
+· Webflow (Certified Expert 2025) – Advanced interactions, CMS collections, E-commerce
+· Umbraco – Custom document types, property editors, multi-site management
+· WordPress – Custom themes, plugin management, WooCommerce, performance optimization
+
+Design & UX/UI
+
+· Figma (Advanced User) – Design systems, auto-layouts, prototyping, design handoff
+· UI/UX Design – User research, wireframing, prototyping, usability testing
+· Advertising Design – Banner design (static/animated), social media graphics, landing pages
+· Design Systems – Component libraries, style guides, design documentation
+
+SEO & Digital Marketing
+
+· Technical SEO – Site architecture, schema markup, Core Web Vitals optimization
+· Performance Analytics –Yandex.Metrica (Certified 2024), heatmaps
+· Search Advertising – Yandex.Direct (Certified 2024), campaign optimization
+· On-page SEO – Keyword research, content optimization, internal linking strategies
+
+DevOps & Hosting Management
+
+· Hosting Expertise – Beget (advanced configuration), cPanel, Plesk, VPS management
+· Domain Management – DNS configuration, SSL certificates, domain transfers
+· Performance Optimization – Caching strategies, CDN implementation, server optimization
+· Security – Firewall configuration, malware protection, backup strategies
 
 ------------------------------------
 
