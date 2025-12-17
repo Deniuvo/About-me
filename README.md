@@ -4,7 +4,7 @@
 
 **Certificates & awards**
 1. Yandex Metric (2024)
-2. Yandex Direct ()
+2. Yandex Direct (2024)
 3. Webflow (layouts Level 1)
 4. Webflow (Layouts Level 2)
 5. Webflow (CMS)
