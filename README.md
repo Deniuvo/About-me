@@ -22,7 +22,7 @@ Published 15+ research papers in peer-reviewed journals (including Web of Scienc
 **Tech & Web Expertise**
 
 Certified Webflow Partner | Founder of a web studio specializing in:
-1. High-conversion landing pages, corporate websites and telegram bots
+1. High-conversion landing pages, corporate websites and Telegram bots
 2. SEO optimization and organic traffic growth
 3. UX/UI design and no-code development
 
