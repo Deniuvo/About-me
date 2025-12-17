@@ -33,7 +33,7 @@ Certified Webflow Partner | Founder of a web studio specializing in:
 
 **Soft & Skills in web-design and UX/UI**
 
-Can edit: HTML/CSS, Python. CMS Webflow (certified in 2025)
+HTML/CSS, Python. CMS Webflow (certified in 2025)
 , CMS Umbraco, CMS WordPress, Figma, Color theory, Technical SEO and performance analytics, Yandex Direct (certified in 2024)
 , Yandex Metric (certified in 2024), Project management
 
