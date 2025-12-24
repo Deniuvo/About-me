@@ -66,7 +66,7 @@ SEO & Digital Marketing
 
 DevOps & Hosting Management
 
-· Hosting Expertise – Beget (advanced configuration), cPanel, Plesk, VPS management
+· Hosting Expertise – Beget (advanced configuration), cPanel, Plesk, VPS management, FTP/SFTP
 · Domain Management – DNS configuration, SSL certificates, domain transfers
 · Performance Optimization – Caching strategies, CDN implementation, server optimization
 · Security – Firewall configuration, malware protection, backup strategies
