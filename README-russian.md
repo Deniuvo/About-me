@@ -37,6 +37,7 @@
 - https://duneflow.ru
 - https://нохчостар.рф
 - https://нохчотравел.рф
+- https://чечняэкстревел.рф
 - https://t.me/nohchostar_bot
 - https://t.me/openchechnya_bot
 - https://t.me/winxvpn_bot
