@@ -40,6 +40,7 @@
 - https://чечняэкстревел.рф
 - https://t.me/nohchostar_bot
 - https://t.me/openchechnya_bot
+- https://t.me/cloudhapp_bot
 - https://t.me/winxvpn_bot
   
   Профиль в Webflow: https://webflow.com/@duneflow
